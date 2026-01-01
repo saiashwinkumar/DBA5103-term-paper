@@ -8,10 +8,10 @@ Design traffic-light schedules at intersections (one incoming street green per s
 - a time bonus for finishing earlier.
 
 ## Datasets & Test Environments
-1) **Hash Code 2021 – Traffic Signaling dataset (Kaggle)**  
-   Large synthetic city instance used as the primary benchmark.
+1) [**Hash Code 2021 – Traffic Signaling dataset (Kaggle):**](https://www.kaggle.com/competitions/hashcode-2021-oqr-extension/data)  
+  Large synthetic city instance used as the primary benchmark.
 
-2) **Real-city case study: Bengaluru sub-network**
+2) [**Real-city case study: Bengaluru sub-network**](https://figshare.com/articles/dataset/Urban_Road_Network_Data/2061897/1)
    - Road network clustered into regions; synthetic peak-hour trips generated to stress-test scalability.
    - Outputs include congestion hotspots, wasted-green diagnostics, and completion metrics.
 
