@@ -1,0 +1,740 @@
+[iter 0]: 4021188
+[iter 12] Improved: 4021308
+[iter 15] Improved: 4021310
+[iter 16] Improved: 4021314
+[iter 29] Improved: 4023097
+[iter 33] Improved: 4023286
+[iter 34] Improved: 4023446
+[iter 45] Improved: 4023458
+[iter 48] Improved: 4023460
+[iter 49] Improved: 4023461
+[iter 59] Improved: 4023467
+[iter 71] Improved: 4024983
+[iter 72] Improved: 4025015
+[iter 92] Improved: 4025042
+[iter 93] Improved: 4025109
+[iter 98] Improved: 4025179
+[iter 100] current best: 4025179
+[iter 103] Improved: 4025429
+[iter 109] Improved: 4025478
+[iter 114] Improved: 4025482
+[iter 124] Improved: 4025490
+[iter 128] Improved: 4025496
+[iter 131] Improved: 4025528
+[iter 134] Improved: 4025738
+[iter 159] Improved: 4025935
+[iter 160] Improved: 4025953
+[iter 163] Improved: 4025954
+[iter 168] Improved: 4026024
+[iter 179] Improved: 4026044
+[iter 182] Improved: 4026380
+[iter 193] Improved: 4026460
+[iter 200] current best: 4026460
+[iter 204] Improved: 4026502
+[iter 205] Improved: 4026956
+[iter 212] Improved: 4026966
+[iter 217] Improved: 4027077
+[iter 222] Improved: 4027089
+[iter 234] Improved: 4027295
+[iter 237] Improved: 4027608
+[iter 243] Improved: 4027698
+[iter 244] Improved: 4027706
+[iter 251] Improved: 4027709
+[iter 266] Improved: 4027710
+[iter 295] Improved: 4027715
+[iter 300] Improved: 4027831
+[iter 300] current best: 4027831
+[iter 311] Improved: 4027911
+[iter 338] Improved: 4027973
+[iter 344] Improved: 4028069
+[iter 349] Improved: 4028088
+[iter 355] Improved: 4028094
+[iter 368] Improved: 4028104
+[iter 387] Improved: 4028128
+[iter 395] Improved: 4028133
+[iter 400] current best: 4028133
+[iter 409] Improved: 4028468
+[iter 414] Improved: 4028469
+[iter 415] Improved: 4028601
+[iter 431] Improved: 4028602
+[iter 434] Improved: 4028667
+[iter 442] Improved: 4028670
+[iter 463] Improved: 4028845
+[iter 467] Improved: 4028846
+[iter 480] Improved: 4029326
+[iter 496] Improved: 4029327
+[iter 500] current best: 4029327
+[iter 510] Improved: 4029439
+[iter 519] Improved: 4029565
+[iter 524] Improved: 4029566
+[iter 527] Improved: 4029568
+[iter 537] Improved: 4029628
+[iter 538] Improved: 4029637
+[iter 544] Improved: 4029639
+[iter 545] Improved: 4029667
+[iter 553] Improved: 4029717
+[iter 572] Improved: 4029765
+[iter 573] Improved: 4029810
+[iter 578] Improved: 4029811
+[iter 586] Improved: 4029935
+[iter 600] current best: 4029935
+[iter 605] Improved: 4029938
+[iter 607] Improved: 4030124
+[iter 609] Improved: 4030228
+[iter 611] Improved: 4030245
+[iter 635] Improved: 4030441
+[iter 637] Improved: 4030459
+[iter 654] Improved: 4030506
+[iter 655] Improved: 4030513
+[iter 671] Improved: 4030518
+[iter 684] Improved: 4030534
+[iter 692] Improved: 4030546
+[iter 700] current best: 4030546
+[iter 715] Improved: 4030885
+[iter 729] Improved: 4030935
+[iter 731] Improved: 4031239
+[iter 734] Improved: 4031451
+[iter 739] Improved: 4031671
+[iter 768] Improved: 4031673
+[iter 777] Improved: 4031694
+[iter 781] Improved: 4031739
+[iter 786] Improved: 4031934
+[iter 796] Improved: 4031957
+[iter 798] Improved: 4032017
+[iter 800] current best: 4032017
+[iter 810] Improved: 4032385
+[iter 824] Improved: 4032386
+[iter 828] Improved: 4032387
+[iter 830] Improved: 4032431
+[iter 831] Improved: 4032433
+[iter 842] Improved: 4032484
+[iter 846] Improved: 4032919
+[iter 854] Improved: 4032970
+[iter 861] Improved: 4032973
+[iter 867] Improved: 4033001
+[iter 875] Improved: 4033034
+[iter 882] Improved: 4033036
+[iter 891] Improved: 4033040
+[iter 896] Improved: 4033080
+[iter 900] current best: 4033080
+[iter 909] Improved: 4033125
+[iter 910] Improved: 4033126
+[iter 934] Improved: 4033316
+[iter 941] Improved: 4033445
+[iter 989] Improved: 4033446
+[iter 997] Improved: 4033493
+[iter 1000] current best: 4033493
+[iter 1025] Improved: 4033523
+[iter 1035] Improved: 4033524
+[iter 1049] Improved: 4033576
+[iter 1063] Improved: 4033709
+[iter 1064] Improved: 4033811
+[iter 1071] Improved: 4033816
+[iter 1072] Improved: 4033818
+[iter 1079] Improved: 4033905
+[iter 1083] Improved: 4033995
+[iter 1084] Improved: 4034031
+[iter 1094] Improved: 4034036
+[iter 1095] Improved: 4034042
+[iter 1100] Improved: 4034112
+[iter 1100] current best: 4034112
+[iter 1107] Improved: 4034144
+[iter 1122] Improved: 4034238
+[iter 1138] Improved: 4034246
+[iter 1185] Improved: 4034298
+[iter 1188] Improved: 4034318
+[iter 1198] Improved: 4034320
+[iter 1200] current best: 4034320
+[iter 1221] Improved: 4034328
+[iter 1225] Improved: 4034330
+[iter 1242] Improved: 4034335
+[iter 1247] Improved: 4034339
+[iter 1258] Improved: 4034415
+[iter 1267] Improved: 4034431
+[iter 1294] Improved: 4034461
+[iter 1300] current best: 4034461
+[iter 1305] Improved: 4034463
+[iter 1365] Improved: 4034592
+[iter 1371] Improved: 4034628
+[iter 1383] Improved: 4034749
+[iter 1391] Improved: 4034925
+[iter 1399] Improved: 4034927
+[iter 1400] current best: 4034927
+[iter 1411] Improved: 4035018
+[iter 1418] Improved: 4035121
+[iter 1420] Improved: 4035125
+[iter 1438] Improved: 4035127
+[iter 1452] Improved: 4035129
+[iter 1459] Improved: 4035316
+[iter 1466] Improved: 4035537
+[iter 1498] Improved: 4035705
+[iter 1500] current best: 4035705
+[iter 1504] Improved: 4035709
+[iter 1520] Improved: 4035711
+[iter 1529] Improved: 4035715
+[iter 1545] Improved: 4035717
+[iter 1567] Improved: 4035719
+[iter 1576] Improved: 4035723
+[iter 1598] Improved: 4035779
+[iter 1600] current best: 4035779
+[iter 1605] Improved: 4035857
+[iter 1632] Improved: 4035861
+[iter 1639] Improved: 4035961
+[iter 1644] Improved: 4035981
+[iter 1646] Improved: 4036066
+[iter 1649] Improved: 4036180
+[iter 1668] Improved: 4036257
+[iter 1673] Improved: 4036262
+[iter 1680] Improved: 4036266
+[iter 1683] Improved: 4036337
+[iter 1694] Improved: 4036338
+[iter 1700] current best: 4036338
+[iter 1710] Improved: 4036350
+[iter 1727] Improved: 4036370
+[iter 1731] Improved: 4036371
+[iter 1732] Improved: 4036567
+[iter 1756] Improved: 4036647
+[iter 1766] Improved: 4036847
+[iter 1780] Improved: 4036849
+[iter 1800] current best: 4036849
+[iter 1846] Improved: 4036857
+[iter 1848] Improved: 4036883
+[iter 1851] Improved: 4036910
+[iter 1868] Improved: 4036978
+[iter 1871] Improved: 4036979
+[iter 1877] Improved: 4037015
+[iter 1882] Improved: 4037034
+[iter 1900] current best: 4037034
+[iter 1904] Improved: 4037056
+[iter 1910] Improved: 4037098
+[iter 1917] Improved: 4037107
+[iter 1924] Improved: 4037129
+[iter 1928] Improved: 4037132
+[iter 1942] Improved: 4037136
+[iter 1948] Improved: 4037226
+[iter 1958] Improved: 4037320
+[iter 1975] Improved: 4037325
+[iter 1983] Improved: 4037689
+[iter 1996] Improved: 4037727
+[iter 2000] current best: 4037727
+[iter 2012] Improved: 4037843
+[iter 2018] Improved: 4037895
+[iter 2039] Improved: 4038219
+[iter 2062] Improved: 4038397
+[iter 2074] Improved: 4038737
+[iter 2100] current best: 4038737
+[iter 2113] Improved: 4038740
+[iter 2123] Improved: 4038948
+[iter 2152] Improved: 4039017
+[iter 2163] Improved: 4039018
+[iter 2164] Improved: 4039019
+[iter 2165] Improved: 4039025
+[iter 2175] Improved: 4039046
+[iter 2182] Improved: 4039058
+[iter 2186] Improved: 4039228
+[iter 2188] Improved: 4039451
+[iter 2190] Improved: 4039516
+[iter 2200] current best: 4039516
+[iter 2205] Improved: 4039541
+[iter 2209] Improved: 4039555
+[iter 2226] Improved: 4039615
+[iter 2241] Improved: 4039629
+[iter 2248] Improved: 4039630
+[iter 2256] Improved: 4039632
+[iter 2267] Improved: 4039682
+[iter 2300] current best: 4039682
+[iter 2316] Improved: 4039684
+[iter 2336] Improved: 4039873
+[iter 2355] Improved: 4039981
+[iter 2391] Improved: 4040093
+[iter 2393] Improved: 4040096
+[iter 2400] current best: 4040096
+[iter 2422] Improved: 4040098
+[iter 2423] Improved: 4040103
+[iter 2438] Improved: 4040242
+[iter 2457] Improved: 4040243
+[iter 2466] Improved: 4040391
+[iter 2474] Improved: 4040550
+[iter 2488] Improved: 4040553
+[iter 2497] Improved: 4040554
+[iter 2500] current best: 4040554
+[iter 2503] Improved: 4040555
+[iter 2519] Improved: 4040861
+[iter 2522] Improved: 4040880
+[iter 2523] Improved: 4040883
+[iter 2547] Improved: 4041006
+[iter 2580] Improved: 4041012
+[iter 2600] current best: 4041012
+[iter 2612] Improved: 4041013
+[iter 2614] Improved: 4041027
+[iter 2617] Improved: 4041029
+[iter 2628] Improved: 4041296
+[iter 2630] Improved: 4041396
+[iter 2641] Improved: 4041399
+[iter 2654] Improved: 4041471
+[iter 2668] Improved: 4041473
+[iter 2670] Improved: 4041474
+[iter 2671] Improved: 4041486
+[iter 2681] Improved: 4041576
+[iter 2685] Improved: 4041588
+[iter 2690] Improved: 4041972
+[iter 2694] Improved: 4042080
+[iter 2700] Improved: 4042095
+[iter 2700] current best: 4042095
+[iter 2720] Improved: 4042241
+[iter 2730] Improved: 4042350
+[iter 2736] Improved: 4042351
+[iter 2784] Improved: 4042387
+[iter 2800] current best: 4042387
+[iter 2812] Improved: 4042389
+[iter 2813] Improved: 4042390
+[iter 2835] Improved: 4042396
+[iter 2859] Improved: 4042603
+[iter 2862] Improved: 4042846
+[iter 2864] Improved: 4042849
+[iter 2900] current best: 4042849
+[iter 2965] Improved: 4042931
+[iter 2966] Improved: 4043052
+[iter 2968] Improved: 4043147
+[iter 2976] Improved: 4043172
+[iter 2993] Improved: 4043256
+[iter 3000] current best: 4043256
+[iter 3005] Improved: 4043310
+[iter 3020] Improved: 4043550
+[iter 3059] Improved: 4043648
+[iter 3090] Improved: 4043658
+[iter 3100] current best: 4043658
+[iter 3104] Improved: 4043694
+[iter 3121] Improved: 4043706
+[iter 3133] Improved: 4043724
+[iter 3136] Improved: 4043829
+[iter 3142] Improved: 4043843
+[iter 3160] Improved: 4043885
+[iter 3168] Improved: 4043985
+[iter 3186] Improved: 4044141
+[iter 3197] Improved: 4044270
+[iter 3198] Improved: 4044438
+[iter 3200] current best: 4044438
+[iter 3214] Improved: 4044462
+[iter 3220] Improved: 4044582
+[iter 3227] Improved: 4044589
+[iter 3232] Improved: 4044715
+[iter 3238] Improved: 4044726
+[iter 3247] Improved: 4044969
+[iter 3266] Improved: 4044989
+[iter 3268] Improved: 4045037
+[iter 3300] current best: 4045037
+[iter 3301] Improved: 4045042
+[iter 3317] Improved: 4045044
+[iter 3339] Improved: 4045394
+[iter 3346] Improved: 4045576
+[iter 3379] Improved: 4045578
+[iter 3395] Improved: 4045858
+[iter 3398] Improved: 4045938
+[iter 3400] current best: 4045938
+[iter 3410] Improved: 4045945
+[iter 3500] current best: 4045945
+[iter 3548] Improved: 4045949
+[iter 3555] Improved: 4046089
+[iter 3559] Improved: 4046134
+[iter 3579] Improved: 4046450
+[iter 3597] Improved: 4046465
+[iter 3600] current best: 4046465
+[iter 3611] Improved: 4046466
+[iter 3652] Improved: 4046467
+[iter 3675] Improved: 4046479
+[iter 3700] current best: 4046479
+[iter 3701] Improved: 4046567
+[iter 3724] Improved: 4046588
+[iter 3734] Improved: 4046872
+[iter 3749] Improved: 4047022
+[iter 3762] Improved: 4047112
+[iter 3800] current best: 4047112
+[iter 3801] Improved: 4047119
+[iter 3806] Improved: 4047139
+[iter 3807] Improved: 4047224
+[iter 3814] Improved: 4047227
+[iter 3838] Improved: 4047378
+[iter 3839] Improved: 4047396
+[iter 3842] Improved: 4047452
+[iter 3848] Improved: 4047862
+[iter 3867] Improved: 4047941
+[iter 3891] Improved: 4047944
+[iter 3900] current best: 4047944
+[iter 3921] Improved: 4048184
+[iter 3922] Improved: 4048186
+[iter 3923] Improved: 4048191
+[iter 3935] Improved: 4048271
+[iter 3967] Improved: 4048325
+[iter 3984] Improved: 4048336
+[iter 3990] Improved: 4048338
+[iter 4000] current best: 4048338
+[iter 4020] Improved: 4048618
+[iter 4035] Improved: 4048624
+[iter 4043] Improved: 4048625
+[iter 4087] Improved: 4048670
+[iter 4094] Improved: 4048675
+[iter 4100] current best: 4048675
+[iter 4105] Improved: 4048871
+[iter 4147] Improved: 4049069
+[iter 4151] Improved: 4049070
+[iter 4154] Improved: 4049072
+[iter 4170] Improved: 4049083
+[iter 4176] Improved: 4049447
+[iter 4184] Improved: 4049657
+[iter 4199] Improved: 4049662
+[iter 4200] Improved: 4049663
+[iter 4200] current best: 4049663
+[iter 4203] Improved: 4050767
+[iter 4226] Improved: 4050786
+[iter 4229] Improved: 4051043
+[iter 4233] Improved: 4051048
+[iter 4245] Improved: 4051063
+[iter 4266] Improved: 4051083
+[iter 4300] current best: 4051083
+[iter 4327] Improved: 4051261
+[iter 4336] Improved: 4051301
+[iter 4339] Improved: 4051303
+[iter 4359] Improved: 4051354
+[iter 4381] Improved: 4051390
+[iter 4382] Improved: 4051391
+[iter 4400] current best: 4051391
+[iter 4413] Improved: 4051392
+[iter 4417] Improved: 4051394
+[iter 4433] Improved: 4051395
+[iter 4488] Improved: 4051408
+[iter 4500] current best: 4051408
+[iter 4510] Improved: 4051409
+[iter 4521] Improved: 4051544
+[iter 4544] Improved: 4051604
+[iter 4563] Improved: 4051724
+[iter 4570] Improved: 4051730
+[iter 4600] current best: 4051730
+[iter 4604] Improved: 4051930
+[iter 4613] Improved: 4052125
+[iter 4625] Improved: 4052264
+[iter 4645] Improved: 4052448
+[iter 4647] Improved: 4052656
+[iter 4700] Improved: 4052704
+[iter 4700] current best: 4052704
+[iter 4717] Improved: 4052912
+[iter 4719] Improved: 4052921
+[iter 4725] Improved: 4052930
+[iter 4732] Improved: 4052970
+[iter 4761] Improved: 4052976
+[iter 4786] Improved: 4052977
+[iter 4800] current best: 4052977
+[iter 4810] Improved: 4052978
+[iter 4813] Improved: 4052980
+[iter 4817] Improved: 4053020
+[iter 4830] Improved: 4053136
+[iter 4867] Improved: 4053380
+[iter 4900] current best: 4053380
+[iter 4961] Improved: 4053390
+[iter 4983] Improved: 4053406
+[iter 4992] Improved: 4053455
+[iter 5000] current best: 4053455
+[iter 5003] Improved: 4053489
+[iter 5006] Improved: 4053498
+[iter 5013] Improved: 4053499
+[iter 5063] Improved: 4053930
+[iter 5071] Improved: 4053962
+[iter 5099] Improved: 4053967
+[iter 5100] current best: 4053967
+[iter 5120] Improved: 4053968
+[iter 5183] Improved: 4054024
+[iter 5186] Improved: 4054034
+[iter 5195] Improved: 4054179
+[iter 5196] Improved: 4054395
+[iter 5200] current best: 4054395
+[iter 5222] Improved: 4054396
+[iter 5272] Improved: 4054670
+[iter 5293] Improved: 4054698
+[iter 5298] Improved: 4055023
+[iter 5300] current best: 4055023
+[iter 5304] Improved: 4055161
+[iter 5308] Improved: 4055416
+[iter 5329] Improved: 4055463
+[iter 5339] Improved: 4055483
+[iter 5389] Improved: 4055511
+[iter 5390] Improved: 4055539
+[iter 5400] current best: 4055539
+[iter 5432] Improved: 4055651
+[iter 5459] Improved: 4055669
+[iter 5467] Improved: 4055670
+[iter 5494] Improved: 4055674
+[iter 5497] Improved: 4055684
+[iter 5500] current best: 4055684
+[iter 5506] Improved: 4055732
+[iter 5515] Improved: 4055852
+[iter 5524] Improved: 4055872
+[iter 5534] Improved: 4055976
+[iter 5541] Improved: 4055980
+[iter 5571] Improved: 4056024
+[iter 5600] current best: 4056024
+[iter 5624] Improved: 4056120
+[iter 5631] Improved: 4056123
+[iter 5687] Improved: 4056130
+[iter 5700] current best: 4056130
+[iter 5730] Improved: 4056183
+[iter 5758] Improved: 4056210
+[iter 5763] Improved: 4056216
+[iter 5773] Improved: 4056558
+[iter 5788] Improved: 4056566
+[iter 5796] Improved: 4056568
+[iter 5800] current best: 4056568
+[iter 5810] Improved: 4056748
+[iter 5819] Improved: 4056751
+[iter 5830] Improved: 4056779
+[iter 5844] Improved: 4056789
+[iter 5859] Improved: 4056797
+[iter 5864] Improved: 4056800
+[iter 5868] Improved: 4056830
+[iter 5900] current best: 4056830
+[iter 5912] Improved: 4057021
+[iter 5918] Improved: 4057025
+[iter 5933] Improved: 4057160
+[iter 5941] Improved: 4057166
+[iter 5964] Improved: 4057443
+[iter 5978] Improved: 4057485
+[iter 6000] current best: 4057485
+[iter 6070] Improved: 4057488
+[iter 6100] current best: 4057488
+[iter 6129] Improved: 4057489
+[iter 6153] Improved: 4057491
+[iter 6156] Improved: 4057533
+[iter 6173] Improved: 4057627
+[iter 6200] current best: 4057627
+[iter 6203] Improved: 4057629
+[iter 6236] Improved: 4057632
+[iter 6277] Improved: 4057640
+[iter 6298] Improved: 4057875
+[iter 6300] current best: 4057875
+[iter 6306] Improved: 4057935
+[iter 6335] Improved: 4057936
+[iter 6341] Improved: 4057937
+[iter 6347] Improved: 4057939
+[iter 6361] Improved: 4057945
+[iter 6363] Improved: 4057955
+[iter 6400] current best: 4057955
+[iter 6431] Improved: 4057976
+[iter 6435] Improved: 4057988
+[iter 6437] Improved: 4058150
+[iter 6439] Improved: 4058215
+[iter 6466] Improved: 4058370
+[iter 6474] Improved: 4058386
+[iter 6475] Improved: 4058419
+[iter 6500] current best: 4058419
+[iter 6507] Improved: 4058449
+[iter 6555] Improved: 4058450
+[iter 6561] Improved: 4058469
+[iter 6569] Improved: 4058472
+[iter 6593] Improved: 4058485
+[iter 6600] current best: 4058485
+[iter 6606] Improved: 4058486
+[iter 6611] Improved: 4058492
+[iter 6649] Improved: 4058500
+[iter 6659] Improved: 4058515
+[iter 6662] Improved: 4058557
+[iter 6675] Improved: 4058559
+[iter 6692] Improved: 4058633
+[iter 6700] current best: 4058633
+[iter 6701] Improved: 4058635
+[iter 6730] Improved: 4058685
+[iter 6736] Improved: 4058727
+[iter 6753] Improved: 4058747
+[iter 6770] Improved: 4058758
+[iter 6800] current best: 4058758
+[iter 6838] Improved: 4058759
+[iter 6867] Improved: 4058760
+[iter 6884] Improved: 4058761
+[iter 6900] current best: 4058761
+[iter 6903] Improved: 4058765
+[iter 6907] Improved: 4058774
+[iter 6926] Improved: 4058775
+[iter 7000] current best: 4058775
+[iter 7089] Improved: 4058782
+[iter 7097] Improved: 4058970
+[iter 7100] current best: 4058970
+[iter 7109] Improved: 4058978
+[iter 7111] Improved: 4058982
+[iter 7112] Improved: 4058984
+[iter 7118] Improved: 4059050
+[iter 7152] Improved: 4059068
+[iter 7157] Improved: 4059069
+[iter 7191] Improved: 4059088
+[iter 7192] Improved: 4059098
+[iter 7197] Improved: 4059099
+[iter 7200] current best: 4059099
+[iter 7208] Improved: 4059105
+[iter 7220] Improved: 4059171
+[iter 7224] Improved: 4059176
+[iter 7238] Improved: 4059177
+[iter 7259] Improved: 4059179
+[iter 7300] current best: 4059179
+[iter 7301] Improved: 4059195
+[iter 7330] Improved: 4059197
+[iter 7332] Improved: 4059198
+[iter 7365] Improved: 4059292
+[iter 7393] Improved: 4059372
+[iter 7395] Improved: 4059373
+[iter 7400] current best: 4059373
+[iter 7403] Improved: 4059396
+[iter 7473] Improved: 4059426
+[iter 7475] Improved: 4059427
+[iter 7500] current best: 4059427
+[iter 7516] Improved: 4059430
+[iter 7529] Improved: 4059438
+[iter 7537] Improved: 4059439
+[iter 7545] Improved: 4059522
+[iter 7559] Improved: 4059543
+[iter 7591] Improved: 4059627
+[iter 7600] current best: 4059627
+[iter 7700] current best: 4059627
+[iter 7711] Improved: 4059639
+[iter 7727] Improved: 4059646
+[iter 7747] Improved: 4059680
+[iter 7767] Improved: 4059688
+[iter 7769] Improved: 4059689
+[iter 7779] Improved: 4059691
+[iter 7795] Improved: 4059692
+[iter 7797] Improved: 4059693
+[iter 7800] current best: 4059693
+[iter 7813] Improved: 4060029
+[iter 7826] Improved: 4060098
+[iter 7827] Improved: 4060122
+[iter 7831] Improved: 4060126
+[iter 7860] Improved: 4060252
+[iter 7873] Improved: 4060280
+[iter 7886] Improved: 4060352
+[iter 7892] Improved: 4060402
+[iter 7900] current best: 4060402
+[iter 7927] Improved: 4060403
+[iter 7939] Improved: 4060451
+[iter 7974] Improved: 4060453
+[iter 7984] Improved: 4060476
+[iter 8000] current best: 4060476
+[iter 8081] Improved: 4060484
+[iter 8100] current best: 4060484
+[iter 8147] Improved: 4060485
+[iter 8160] Improved: 4060932
+[iter 8184] Improved: 4060943
+[iter 8200] Improved: 4060992
+[iter 8200] current best: 4060992
+[iter 8227] Improved: 4061019
+[iter 8252] Improved: 4061020
+[iter 8253] Improved: 4061069
+[iter 8299] Improved: 4061237
+[iter 8300] current best: 4061237
+[iter 8341] Improved: 4061240
+[iter 8377] Improved: 4061295
+[iter 8393] Improved: 4061298
+[iter 8399] Improved: 4061394
+[iter 8400] current best: 4061394
+[iter 8435] Improved: 4061510
+[iter 8449] Improved: 4061517
+[iter 8456] Improved: 4061542
+[iter 8476] Improved: 4061553
+[iter 8479] Improved: 4061555
+[iter 8500] current best: 4061555
+[iter 8501] Improved: 4061558
+[iter 8572] Improved: 4061586
+[iter 8580] Improved: 4061588
+[iter 8588] Improved: 4061589
+[iter 8600] current best: 4061589
+[iter 8658] Improved: 4061590
+[iter 8700] current best: 4061590
+[iter 8715] Improved: 4061596
+[iter 8730] Improved: 4061605
+[iter 8759] Improved: 4061607
+[iter 8775] Improved: 4061609
+[iter 8782] Improved: 4061679
+[iter 8793] Improved: 4061919
+[iter 8800] current best: 4061919
+[iter 8847] Improved: 4061922
+[iter 8865] Improved: 4061923
+[iter 8879] Improved: 4061944
+[iter 8882] Improved: 4061984
+[iter 8900] current best: 4061984
+[iter 8904] Improved: 4062359
+[iter 8922] Improved: 4062422
+[iter 8936] Improved: 4062424
+[iter 8952] Improved: 4062427
+[iter 8992] Improved: 4062428
+[iter 8999] Improved: 4062429
+[iter 9000] current best: 4062429
+[iter 9014] Improved: 4062434
+[iter 9050] Improved: 4062666
+[iter 9062] Improved: 4062667
+[iter 9064] Improved: 4062668
+[iter 9066] Improved: 4062669
+[iter 9076] Improved: 4062677
+[iter 9098] Improved: 4062678
+[iter 9100] current best: 4062678
+[iter 9143] Improved: 4062689
+[iter 9160] Improved: 4062726
+[iter 9164] Improved: 4062782
+[iter 9165] Improved: 4062791
+[iter 9169] Improved: 4062807
+[iter 9199] Improved: 4062813
+[iter 9200] current best: 4062813
+[iter 9204] Improved: 4062814
+[iter 9230] Improved: 4062860
+[iter 9248] Improved: 4062926
+[iter 9249] Improved: 4063108
+[iter 9261] Improved: 4063136
+[iter 9268] Improved: 4063138
+[iter 9269] Improved: 4063246
+[iter 9272] Improved: 4063252
+[iter 9279] Improved: 4063353
+[iter 9300] current best: 4063353
+[iter 9313] Improved: 4063356
+[iter 9370] Improved: 4063460
+[iter 9392] Improved: 4063595
+[iter 9393] Improved: 4063602
+[iter 9400] current best: 4063602
+[iter 9421] Improved: 4063701
+[iter 9434] Improved: 4063704
+[iter 9435] Improved: 4063709
+[iter 9443] Improved: 4063732
+[iter 9467] Improved: 4063737
+[iter 9477] Improved: 4063849
+[iter 9481] Improved: 4063943
+[iter 9500] current best: 4063943
+[iter 9510] Improved: 4063949
+[iter 9531] Improved: 4063950
+[iter 9537] Improved: 4063980
+[iter 9600] current best: 4063980
+[iter 9603] Improved: 4064041
+[iter 9606] Improved: 4064260
+[iter 9616] Improved: 4064263
+[iter 9638] Improved: 4064268
+[iter 9666] Improved: 4064271
+[iter 9673] Improved: 4064329
+[iter 9675] Improved: 4064330
+[iter 9676] Improved: 4064334
+[iter 9679] Improved: 4064343
+[iter 9682] Improved: 4064344
+[iter 9700] current best: 4064344
+[iter 9707] Improved: 4064348
+[iter 9720] Improved: 4064349
+[iter 9756] Improved: 4064379
+[iter 9775] Improved: 4064384
+[iter 9798] Improved: 4064404
+[iter 9799] Improved: 4064417
+[iter 9800] current best: 4064417
+[iter 9804] Improved: 4064701
+[iter 9824] Improved: 4064780
+[iter 9840] Improved: 4064807
+[iter 9841] Improved: 4064813
+[iter 9842] Improved: 4064856
+[iter 9891] Improved: 4064857
+[iter 9900] current best: 4064857
+[iter 9909] Improved: 4064932
+[iter 9919] Improved: 4064934
+[iter 9926] Improved: 4065347
+[iter 9962] Improved: 4065348
+[iter 9974] Improved: 4065440
+[iter 9989] Improved: 4065441
+[iter 9996] Improved: 4065548
+[iter 10000] current best: 4065548
